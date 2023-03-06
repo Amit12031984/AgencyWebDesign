@@ -1,0 +1,191 @@
+body
+{
+    margin: 0;
+    font-family: Poppins;
+}
+.nav
+{
+    background-color: #2B3A55;
+    color: white;
+    margin: 0;
+    width: 100%;
+    height: 50px;
+    border-bottom: 2px solid #E7B10A;
+}
+.nav-list
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 250px;
+    list-style-type: none;
+}
+.list-item
+{
+    float: right;
+    margin:23px 20px;
+    font-weight: 200;
+    font-size: small;
+}
+.nav-heading
+{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    float: left;
+    margin-left: 100px;
+    font-weight: 500;
+}
+.nav-anchor
+{
+    color: white;
+    text-decoration: none;
+}
+.label
+{
+    display: block;
+}
+.inputfield
+{
+    display: block;
+    width: 80%;
+}
+.submit-button
+{
+    background-color: #E7B10A;
+    border:0px; 
+    border-radius: 2px;
+    color: white;
+}
+.div-box
+{
+    width: 300px;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+.hr-clear
+{
+    clear: both;
+}
+.div-container
+{
+    width: 900px;
+    margin: 0px auto;
+}
+.footer
+{
+    background-color: #E7B10A;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+    color: white;
+    height: 30px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+.footer-para
+{
+  margin-top: 5px;
+  font-size: small;
+}
+.bottom-div-spacer
+{
+    height: 5px;
+    width: 100px;
+}
+.nav-agency
+{
+    color: #E7B10A;
+}
+.banner
+{
+    height: 500px;
+    position : relative;
+}
+.banner-image
+{
+    margin-top: -14px;
+    width: 100%;
+    height: 500px;
+}
+.banner-text
+{
+   position: absolute;
+   top: 200px;
+   color: white;
+   font-size: xx-large;
+   width: 100%;
+   text-align: center;
+}
+.banner-text2
+{
+   position: absolute;
+   top: 255px;
+   color: white;
+   font-size: medium;
+   width: 100%;
+   text-align: center;
+}
+.about-div1
+{
+  width: 50%;
+  height: 250px;
+  float: left;
+  margin-left: 100px;
+}
+.about-div2
+{
+    width: 30%;
+    height: 250px;
+    float: left;
+    background-color: #2B3A55;
+    padding-left: 10px;
+    margin-left: 20px;
+    color: white;
+}
+.about-p1
+{
+    font-size: small;
+}
+.about-p2
+{
+    font-size: small;
+}
+.service-div1
+{
+  float: left;
+  margin-left: 100px;
+  width: 50%;
+}
+.service-div2
+{
+    width: 20%;
+    height: 300px;
+    float: left;
+    background-color: #2B3A55;
+    margin-left: 50px;
+    padding-left: 15px;
+    color: white;
+}
+.service-content
+{
+    background-color: #F3EFE0;
+}
+.service-content-para
+{
+    margin-bottom: 3px;
+    font-size: small;
+}
+.service-content-heading
+{
+    margin-top: 0px;
+    font-size: small;
+}
+.service-content-desc-para
+{
+    font-size: small;
+}
+.service-content-main-heading
+{
+    font-size: small;
+}
